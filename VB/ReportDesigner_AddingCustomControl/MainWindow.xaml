@@ -1,0 +1,6 @@
+﻿<Window xmlns:dxrud="http://schemas.devexpress.com/winfx/2008/xaml/reports/userdesigner"  x:Class="ReportDesigner_AddingCustomControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <dxrud:ReportDesigner x:Name="reportDesigner"/>
+</Window>
