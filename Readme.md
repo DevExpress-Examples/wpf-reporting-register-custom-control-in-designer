@@ -9,8 +9,12 @@ This example demonstrates how to add a custom control (XRProgressBar) to the [Re
 
 ![Alt text](images/image.png)
 
-## Files to Reviwew
+## Files to Review
 
 * [MainWindow.xaml](./CS/ReportDesigner_AddingCustomControl/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ReportDesigner_AddingCustomControl/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/ReportDesigner_AddingCustomControl/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ReportDesigner_AddingCustomControl/MainWindow.xaml.vb))
 * [XRProgressBar.cs](./CS/ReportDesigner_AddingCustomControl/XRProgressBar.cs) (VB: [XRProgressBar.vb](./VB/ReportDesigner_AddingCustomControl/XRProgressBar.vb))
+
+## Documentation 
+
+* [Add a Custom Control to the Report Designer Toolbox](https://docs.devexpress.com/XtraReports/116767/desktop-reporting/wpf-reporting/end-user-report-designer-for-wpf/api-and-customization/add-a-custom-control-to-the-report-designer-toolbox)
