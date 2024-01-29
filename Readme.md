@@ -11,9 +11,9 @@ This example demonstrates how to add a custom control (XRProgressBar) to the [Re
 
 ## Files to Review
 
-* [MainWindow.xaml](./CS/ReportDesigner_AddingCustomControl/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ReportDesigner_AddingCustomControl/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/ReportDesigner_AddingCustomControl/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ReportDesigner_AddingCustomControl/MainWindow.xaml.vb))
-* [XRProgressBar.cs](./CS/ReportDesigner_AddingCustomControl/XRProgressBar.cs) (VB: [XRProgressBar.vb](./VB/ReportDesigner_AddingCustomControl/XRProgressBar.vb))
+* [MainWindow.xaml](CS/MainWindow.xaml) (VB: [MainWindow.xaml](VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](VB/MainWindow.xaml.vb))
+* [XRProgressBar.cs](CS/XRProgressBar.cs) (VB: [XRProgressBar.vb](VB/XRProgressBar.vb))
 
 ## Documentation 
 
