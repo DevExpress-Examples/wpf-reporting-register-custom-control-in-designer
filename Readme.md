@@ -14,7 +14,7 @@ This example demonstrates how to add a custom control (XRProgressBar) to the [Re
 * [MainWindow.xaml.cs](./CS/ReportDesigner_AddingCustomControl/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ReportDesigner_AddingCustomControl/MainWindow.xaml.vb))
 * [XRProgressBar.cs](./CS/ReportDesigner_AddingCustomControl/XRProgressBar.cs) (VB: [XRProgressBar.vb](./VB/ReportDesigner_AddingCustomControl/XRProgressBar.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-reporting-register-custom-control-in-designer&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-reporting-register-custom-control-in-designer&~~~was_helpful=no)
 
