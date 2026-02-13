@@ -20,7 +20,7 @@ This example demonstrates how to add a custom control (XRProgressBar) to the [Re
 
 * [Add a Custom Control to the Report Designer Toolbox](https://docs.devexpress.com/XtraReports/116767/desktop-reporting/wpf-reporting/end-user-report-designer-for-wpf/api-and-customization/add-a-custom-control-to-the-report-designer-toolbox)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-reporting-register-custom-control-in-designer&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-reporting-register-custom-control-in-designer&~~~was_helpful=no)
 
